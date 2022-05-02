@@ -21,6 +21,34 @@
 			</item>
 		
 			<item>
+				<title>我们的爱情之路</title>
+				
+					<dc:creator>PQ</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;我们相遇了&quot;&gt;我们相遇了&lt;/h1&gt;
+</description>
+				
+				<pubDate>Sun, 01 May 2022 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/how-we-begin</link>
+				<guid isPermaLink="true">http://localhost:4000/how-we-begin</guid>
+			</item>
+		
+			<item>
+				<title>About the Author</title>
+				
+					<dc:creator>PQ</dc:creator>
+				
+				
+					<description>&lt;!-- Hi there! I'm PQ. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing. --&gt;
+</description>
+				
+				<pubDate>Mon, 04 Apr 2022 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/about-the-author</link>
+				<guid isPermaLink="true">http://localhost:4000/about-the-author</guid>
+			</item>
+		
+			<item>
 				<title>Getting Started</title>
 				
 					<dc:creator>Paul Le</dc:creator>
@@ -60,20 +88,6 @@
 				<pubDate>Thu, 05 May 2016 00:00:00 -0700</pubDate>
 				<link>http://localhost:4000/learning-resources</link>
 				<guid isPermaLink="true">http://localhost:4000/learning-resources</guid>
-			</item>
-		
-			<item>
-				<title>About the Author</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Hi there! I’m Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out &lt;a href=&quot;https://www.lenpaul.com/&quot;&gt;my personal website&lt;/a&gt; for more information on my other projects (including more Jekyll themes!), as well as some of my writing.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 04 Apr 2016 00:00:00 -0700</pubDate>
-				<link>http://localhost:4000/about-the-author</link>
-				<guid isPermaLink="true">http://localhost:4000/about-the-author</guid>
 			</item>
 		
 	</channel>
