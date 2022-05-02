@@ -3,7 +3,7 @@ layout: post
 title: "我们的爱情之路"
 author: "PQ"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation]
 image: IMG_8798.JPG
 ---
 
